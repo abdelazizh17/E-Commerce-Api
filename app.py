@@ -4,9 +4,9 @@ from sqlalchemy.orm import declarative_base, relationship
 from sqlalchemy import Column, Integer, String, Float, Boolean, JSON, ForeignKey, select, Text
 from pathlib import Path
 from datetime import datetime, timezone
-import json, logging, asyncio
+import json, logging
 from contextlib import asynccontextmanager
-from typing import List, Dict, Any
+
 
 DATABASE_URL = "sqlite+aiosqlite:///./products.db"
 engine = create_async_engine(
