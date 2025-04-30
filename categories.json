@@ -1,0 +1,114 @@
+{
+    "women": [
+        {
+            "name": "womens-dresses",
+            "imageUrl": "https://i.imgur.com/ErzoZxM.png"
+        },
+        {
+            "name": "womens-shoes",
+            "imageUrl": "https://i.imgur.com/GNrpU3f.png"
+        },
+        {
+            "name": "womens-bags",
+            "imageUrl": "https://i.imgur.com/ILqfKOW.png"
+        },
+        {
+            "name": "womens-jewellery",
+            "imageUrl": "https://i.imgur.com/GAQNO4q.png"
+        },
+        {
+            "name": "womens-watches",
+            "imageUrl": "https://i.imgur.com/YHiqsqk.png"
+        },
+        {
+            "name": "tops",
+            "imageUrl": "https://i.imgur.com/XzlWQZp.png"
+        }
+    ],
+    "men": [
+        {
+            "name": "mens-shirts",
+            "imageUrl": "https://i.imgur.com/zfj4psS.png"
+        },
+        {
+            "name": "mens-shoes",
+            "imageUrl": "https://i.imgur.com/Fk7x54c.png"
+        },
+        {
+            "name": "mens-watches",
+            "imageUrl": "https://i.imgur.com/TcYMsiY.png"
+        }
+    ],
+    "beauty": [
+        {
+            "name": "beauty",
+            "imageUrl": "https://i.imgur.com/ivgDoKG.png"
+        },
+        {
+            "name": "skin-care",
+            "imageUrl": "https://i.imgur.com/VgxOnw1.png"
+        },
+        {
+            "name": "fragrances",
+            "imageUrl": "https://i.imgur.com/OKUj0sQ.png"
+        }
+    ],
+    "home": [
+        {
+            "name": "furniture",
+            "imageUrl": "https://i.imgur.com/QlqhWl6.png"
+        },
+        {
+            "name": "home-decoration",
+            "imageUrl": "https://i.imgur.com/2EHY24E.png"
+        },
+        {
+            "name": "kitchen-accessories",
+            "imageUrl": "https://i.imgur.com/BdRcynr.png"
+        }
+    ],
+    "groceries": [
+        {
+            "name": "groceries",
+            "imageUrl": "https://i.imgur.com/veq00q4.png"
+        }
+    ],
+    "electronics": [
+        {
+            "name": "laptops",
+            "imageUrl": "https://i.imgur.com/EsCfORq.png"
+        },
+        {
+            "name": "smartphones",
+            "imageUrl": "https://i.imgur.com/UacSZch.png"
+        },
+        {
+            "name": "tablets",
+            "imageUrl": "https://i.imgur.com/imOFq4q.png"
+        }
+    ],
+    "accessories": [
+        {
+            "name": "mobile-accessories",
+            "imageUrl": "https://i.imgur.com/cyHjtSX.png"
+        },
+        {
+            "name": "sunglasses",
+            "imageUrl": "https://i.imgur.com/sJ00DT5.png"
+        },
+        {
+            "name": "sports-accessories",
+            "imageUrl": "https://i.imgur.com/yX3FWXE.png"
+        }
+    ],
+    "vehicles": [
+        {
+            "name": "vehicle",
+            "imageUrl": "https://i.imgur.com/BCy3LCu.png"
+        },
+        {
+            "name": "motorcycle",
+            "imageUrl": "https://i.imgur.com/6bzACM4.png"
+        }
+    ]
+}

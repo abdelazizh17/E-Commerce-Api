@@ -1,0 +1,1152 @@
+{
+    "sale": [
+        {
+            "id": 1,
+            "title": "Blue & Black Check Shirt",
+            "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+            "category": "mens-shirts",
+            "price": 29.99,
+            "discountPercentage": 1.41,
+            "rating": 5,
+            "stock": 44,
+            "tags": [
+                "clothing",
+                "men's shirts"
+            ],
+            "brand": "Fashion Trends",
+            "sku": "6RJDTVCU",
+            "weight": 6,
+            "dimensions": {
+                "width": 17.25,
+                "height": 27.31,
+                "depth": 20.88
+            },
+            "warrantyInformation": "No warranty",
+            "shippingInformation": "Ships in 1 month",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 4,
+                    "comment": "Highly recommended!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Mason Parker",
+                    "reviewerEmail": "mason.parker@x.dummyjson.com"
+                },
+                {
+                    "rating": 5,
+                    "comment": "Highly impressed!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Avery Perez",
+                    "reviewerEmail": "avery.perez@x.dummyjson.com"
+                },
+                {
+                    "rating": 5,
+                    "comment": "Fast shipping!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Nathan Reed",
+                    "reviewerEmail": "nathan.reed@x.dummyjson.com"
+                },
+                {
+                    "rating": 5,
+                    "comment": "Great product!",
+                    "reviewerName": "John Doe",
+                    "date": "2024-05-23T08:56:21.623Z"
+                },
+                {
+                    "rating": 2,
+                    "comment": "Great product!",
+                    "reviewerName": "Abdelaziz",
+                    "date": "2025-03-11T05:14:41.904+00:00"
+                }
+            ],
+            "returnPolicy": "7 days return policy",
+            "minimumOrderQuantity": 4,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.623Z",
+                "updatedAt": "2024-05-23T08:56:21.623Z",
+                "barcode": "8840720880947",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/1.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/2.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/3.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/thumbnail.png"
+        },
+        {
+            "id": 2,
+            "title": "Black Women's Gown",
+            "description": "The Black Women's Gown is an elegant and timeless evening gown. With a sleek black design, it's perfect for formal events and special occasions, exuding sophistication and style.",
+            "category": "womens-dresses",
+            "price": 129.99,
+            "discountPercentage": 5.86,
+            "rating": 4.77,
+            "stock": 7,
+            "tags": [
+                "clothing",
+                "gowns"
+            ],
+            "sku": "CL0LXEBG",
+            "weight": 7,
+            "dimensions": {
+                "width": 22.4,
+                "height": 22.15,
+                "depth": 21.87
+            },
+            "warrantyInformation": "Lifetime warranty",
+            "shippingInformation": "Ships in 1 month",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "Very satisfied!",
+                    "date": "2024-05-23T08:56:21.627Z",
+                    "reviewerName": "Aria Flores",
+                    "reviewerEmail": "aria.flores@x.dummyjson.com"
+                },
+                {
+                    "rating": 5,
+                    "comment": "Great product!",
+                    "date": "2024-05-23T08:56:21.627Z",
+                    "reviewerName": "Stella Hughes",
+                    "reviewerEmail": "stella.hughes@x.dummyjson.com"
+                },
+                {
+                    "rating": 1,
+                    "comment": "Not as described!",
+                    "date": "2024-05-23T08:56:21.627Z",
+                    "reviewerName": "Mason Pearson",
+                    "reviewerEmail": "mason.pearson@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "7 days return policy",
+            "minimumOrderQuantity": 2,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.627Z",
+                "updatedAt": "2024-05-23T08:56:21.627Z",
+                "barcode": "3515162615847",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/womens-dresses/Black%20Women's%20Gown/1.png",
+                "https://cdn.dummyjson.com/products/images/womens-dresses/Black%20Women's%20Gown/2.png",
+                "https://cdn.dummyjson.com/products/images/womens-dresses/Black%20Women's%20Gown/3.png",
+                "https://cdn.dummyjson.com/products/images/womens-dresses/Black%20Women's%20Gown/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/womens-dresses/Black%20Women's%20Gown/thumbnail.png"
+        },
+        {
+            "id": 3,
+            "title": "Corset Leather With Skirt",
+            "description": "The Corset Leather With Skirt is a bold and edgy ensemble that combines a stylish corset with a matching skirt. Ideal for fashion-forward individuals, it makes a statement at any event.",
+            "category": "womens-dresses",
+            "price": 89.99,
+            "discountPercentage": 19.26,
+            "rating": 2.52,
+            "stock": 59,
+            "tags": [
+                "clothing",
+                "corsets",
+                "skirts"
+            ],
+            "sku": "TU384RG4",
+            "weight": 1,
+            "dimensions": {
+                "width": 19.1,
+                "height": 27.47,
+                "depth": 29.95
+            },
+            "warrantyInformation": "6 months warranty",
+            "shippingInformation": "Ships overnight",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 3,
+                    "comment": "Very unhappy with my purchase!",
+                    "date": "2024-05-23T08:56:21.627Z",
+                    "reviewerName": "Mason Parker",
+                    "reviewerEmail": "mason.parker@x.dummyjson.com"
+                },
+                {
+                    "rating": 3,
+                    "comment": "Would not recommend!",
+                    "date": "2024-05-23T08:56:21.627Z",
+                    "reviewerName": "Grace Green",
+                    "reviewerEmail": "grace.green@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Highly impressed!",
+                    "date": "2024-05-23T08:56:21.627Z",
+                    "reviewerName": "Madison Stewart",
+                    "reviewerEmail": "madison.stewart@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "60 days return policy",
+            "minimumOrderQuantity": 4,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.627Z",
+                "updatedAt": "2024-05-23T08:56:21.627Z",
+                "barcode": "5612433310069",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20Leather%20With%20Skirt/1.png",
+                "https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20Leather%20With%20Skirt/2.png",
+                "https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20Leather%20With%20Skirt/3.png",
+                "https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20Leather%20With%20Skirt/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20Leather%20With%20Skirt/thumbnail.png"
+        },
+        {
+            "id": 4,
+            "title": "Gigabyte Aorus Men Tshirt",
+            "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+            "category": "mens-shirts",
+            "price": 24.99,
+            "discountPercentage": 12.6,
+            "rating": 4.95,
+            "stock": 64,
+            "tags": [
+                "clothing",
+                "men's t-shirts"
+            ],
+            "brand": "Gigabyte",
+            "sku": "QA703Y60",
+            "weight": 2,
+            "dimensions": {
+                "width": 8.54,
+                "height": 23.52,
+                "depth": 5.66
+            },
+            "warrantyInformation": "1 month warranty",
+            "shippingInformation": "Ships in 1 week",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 4,
+                    "comment": "Highly recommended!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Logan Lawson",
+                    "reviewerEmail": "logan.lawson@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Great value for money!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Logan Lawson",
+                    "reviewerEmail": "logan.lawson@x.dummyjson.com"
+                },
+                {
+                    "rating": 5,
+                    "comment": "Great value for money!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Oscar Powers",
+                    "reviewerEmail": "oscar.powers@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 4,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.623Z",
+                "updatedAt": "2024-05-23T08:56:21.623Z",
+                "barcode": "3072645939073",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/1.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/2.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/3.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/thumbnail.png"
+        },
+        {
+            "id": 5,
+            "title": "Man Plaid Shirt",
+            "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+            "category": "mens-shirts",
+            "price": 34.99,
+            "discountPercentage": 17.53,
+            "rating": 3.66,
+            "stock": 65,
+            "tags": [
+                "clothing",
+                "men's shirts"
+            ],
+            "brand": "Classic Wear",
+            "sku": "TWL7HRBB",
+            "weight": 1,
+            "dimensions": {
+                "width": 29.56,
+                "height": 29.84,
+                "depth": 7.77
+            },
+            "warrantyInformation": "Lifetime warranty",
+            "shippingInformation": "Ships in 1 week",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 3,
+                    "comment": "Would not buy again!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Nora Mills",
+                    "reviewerEmail": "nora.mills@x.dummyjson.com"
+                },
+                {
+                    "rating": 1,
+                    "comment": "Very disappointed!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Addison Ward",
+                    "reviewerEmail": "addison.ward@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Awesome product!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Emily Brown",
+                    "reviewerEmail": "emily.brown@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.623Z",
+                "updatedAt": "2024-05-23T08:56:21.623Z",
+                "barcode": "9383795178668",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/1.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/2.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/3.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/thumbnail.png"
+        },
+        {
+            "id": 6,
+            "title": "Blue & Black Check Shirt",
+            "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+            "category": "mens-shirts",
+            "price": 29.99,
+            "discountPercentage": 1.41,
+            "rating": 4.19,
+            "stock": 44,
+            "tags": [
+                "clothing",
+                "men's shirts"
+            ],
+            "brand": "Fashion Trends",
+            "sku": "6RJDTVCU",
+            "weight": 6,
+            "dimensions": {
+                "width": 17.25,
+                "height": 27.31,
+                "depth": 20.88
+            },
+            "warrantyInformation": "No warranty",
+            "shippingInformation": "Ships in 1 month",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 4,
+                    "comment": "Highly recommended!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Mason Parker",
+                    "reviewerEmail": "mason.parker@x.dummyjson.com"
+                },
+                {
+                    "rating": 5,
+                    "comment": "Highly impressed!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Avery Perez",
+                    "reviewerEmail": "avery.perez@x.dummyjson.com"
+                },
+                {
+                    "rating": 5,
+                    "comment": "Fast shipping!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Nathan Reed",
+                    "reviewerEmail": "nathan.reed@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "7 days return policy",
+            "minimumOrderQuantity": 4,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.623Z",
+                "updatedAt": "2024-05-23T08:56:21.623Z",
+                "barcode": "8840720880947",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/3.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/2.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/1.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/thumbnail.png"
+        },
+        {
+            "id": 7,
+            "title": "Nike Air Jordan 1 Red And Black",
+            "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+            "category": "mens-shoes",
+            "price": 149.99,
+            "discountPercentage": 15.82,
+            "rating": 2.77,
+            "stock": 15,
+            "tags": [
+                "footwear",
+                "athletic shoes"
+            ],
+            "brand": "Nike",
+            "sku": "84YC5J67",
+            "weight": 5,
+            "dimensions": {
+                "width": 19.29,
+                "height": 13.2,
+                "depth": 29.13
+            },
+            "warrantyInformation": "1 year warranty",
+            "shippingInformation": "Ships in 1 month",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 2,
+                    "comment": "Very unhappy with my purchase!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Victoria McDonald",
+                    "reviewerEmail": "victoria.mcdonald@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Mason Parker",
+                    "reviewerEmail": "mason.parker@x.dummyjson.com"
+                },
+                {
+                    "rating": 5,
+                    "comment": "Fast shipping!",
+                    "date": "2024-05-23T08:56:21.623Z",
+                    "reviewerName": "Avery Perez",
+                    "reviewerEmail": "avery.perez@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "7 days return policy",
+            "minimumOrderQuantity": 2,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.623Z",
+                "updatedAt": "2024-05-23T08:56:21.623Z",
+                "barcode": "0098559139691",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/1.png",
+                "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/2.png",
+                "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/3.png",
+                "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/thumbnail.png"
+        },
+        {
+            "id": 8,
+            "title": "Brown Leather Belt Watch",
+            "description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+            "category": "mens-watches",
+            "price": 89.99,
+            "discountPercentage": 15.01,
+            "rating": 4.47,
+            "stock": 69,
+            "tags": [
+                "watches",
+                "leather watches"
+            ],
+            "brand": "Fashion Timepieces",
+            "sku": "WGZ21MSA",
+            "weight": 10,
+            "dimensions": {
+                "width": 18.39,
+                "height": 10.82,
+                "depth": 10.52
+            },
+            "warrantyInformation": "3 months warranty",
+            "shippingInformation": "Ships in 1 week",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 3,
+                    "comment": "Very dissatisfied!",
+                    "date": "2024-05-23T08:56:21.624Z",
+                    "reviewerName": "Oscar Powers",
+                    "reviewerEmail": "oscar.powers@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Fast shipping!",
+                    "date": "2024-05-23T08:56:21.624Z",
+                    "reviewerName": "Eli Ward",
+                    "reviewerEmail": "eli.ward@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Highly impressed!",
+                    "date": "2024-05-23T08:56:21.624Z",
+                    "reviewerName": "Stella Hughes",
+                    "reviewerEmail": "stella.hughes@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "90 days return policy",
+            "minimumOrderQuantity": 10,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.624Z",
+                "updatedAt": "2024-05-23T08:56:21.624Z",
+                "barcode": "9559180055872",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/1.png",
+                "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/2.png",
+                "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/3.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/thumbnail.png"
+        },
+        {
+            "id": 9,
+            "title": "Longines Master Collection",
+            "description": "The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication.",
+            "category": "mens-watches",
+            "price": 1499.99,
+            "discountPercentage": 0.64,
+            "rating": 2.64,
+            "stock": 65,
+            "tags": [
+                "watches",
+                "luxury watches"
+            ],
+            "brand": "Longines",
+            "sku": "LA7B9XEV",
+            "weight": 2,
+            "dimensions": {
+                "width": 5.83,
+                "height": 12.48,
+                "depth": 7.65
+            },
+            "warrantyInformation": "1 month warranty",
+            "shippingInformation": "Ships in 3-5 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 4,
+                    "comment": "Great product!",
+                    "date": "2024-05-23T08:56:21.624Z",
+                    "reviewerName": "Jack Ward",
+                    "reviewerEmail": "jack.ward@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Highly recommended!",
+                    "date": "2024-05-23T08:56:21.624Z",
+                    "reviewerName": "Victoria McDonald",
+                    "reviewerEmail": "victoria.mcdonald@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Highly impressed!",
+                    "date": "2024-05-23T08:56:21.624Z",
+                    "reviewerName": "Mia Rodriguez",
+                    "reviewerEmail": "mia.rodriguez@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "60 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.624Z",
+                "updatedAt": "2024-05-23T08:56:21.624Z",
+                "barcode": "1865008250672",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/1.png",
+                "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/2.png",
+                "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/3.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/thumbnail.png"
+        },
+        {
+            "id": 10,
+            "title": "Black & Brown Slipper",
+            "description": "The Black & Brown Slipper is a comfortable and stylish choice for casual wear. Featuring a blend of black and brown colors, it adds a touch of sophistication to your relaxation.",
+            "category": "womens-shoes",
+            "price": 19.99,
+            "discountPercentage": 13.62,
+            "rating": 4.13,
+            "stock": 80,
+            "tags": [
+                "footwear",
+                "slippers"
+            ],
+            "brand": "Comfort Trends",
+            "sku": "0EVS1LOK",
+            "weight": 9,
+            "dimensions": {
+                "width": 9.73,
+                "height": 15.4,
+                "depth": 6.3
+            },
+            "warrantyInformation": "2 year warranty",
+            "shippingInformation": "Ships in 1-2 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 1,
+                    "comment": "Not as described!",
+                    "date": "2024-05-23T08:56:21.627Z",
+                    "reviewerName": "Ethan Fletcher",
+                    "reviewerEmail": "ethan.fletcher@x.dummyjson.com"
+                },
+                {
+                    "rating": 2,
+                    "comment": "Very disappointed!",
+                    "date": "2024-05-23T08:56:21.627Z",
+                    "reviewerName": "Nathan Dixon",
+                    "reviewerEmail": "nathan.dixon@x.dummyjson.com"
+                },
+                {
+                    "rating": 5,
+                    "comment": "Great value for money!",
+                    "date": "2024-05-23T08:56:21.627Z",
+                    "reviewerName": "Savannah Gomez",
+                    "reviewerEmail": "savannah.gomez@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "90 days return policy",
+            "minimumOrderQuantity": 29,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.627Z",
+                "updatedAt": "2024-05-23T08:56:21.627Z",
+                "barcode": "7641648910463",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/womens-shoes/Black%20&%20Brown%20Slipper/1.png",
+                "https://cdn.dummyjson.com/products/images/womens-shoes/Black%20&%20Brown%20Slipper/2.png",
+                "https://cdn.dummyjson.com/products/images/womens-shoes/Black%20&%20Brown%20Slipper/3.png",
+                "https://cdn.dummyjson.com/products/images/womens-shoes/Black%20&%20Brown%20Slipper/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/womens-shoes/Black%20&%20Brown%20Slipper/thumbnail.png"
+        },
+        {
+            "id": 11,
+            "title": "Calvin Klein Heel Shoes",
+            "description": "Calvin Klein Heel Shoes are elegant and sophisticated, designed for formal occasions. With a classic design and high-quality materials, they complement your stylish ensemble.",
+            "category": "womens-shoes",
+            "price": 79.99,
+            "discountPercentage": 11.39,
+            "rating": 4.06,
+            "stock": 99,
+            "tags": [
+                "footwear",
+                "heel shoes"
+            ],
+            "brand": "Calvin Klein",
+            "sku": "9U4PYRXS",
+            "weight": 1,
+            "dimensions": {
+                "width": 15.41,
+                "height": 18.83,
+                "depth": 18.69
+            },
+            "warrantyInformation": "1 week warranty",
+            "shippingInformation": "Ships in 3-5 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+                {
+                    "rating": 5,
+                    "comment": "Very pleased!",
+                    "date": "2024-05-23T08:56:21.628Z",
+                    "reviewerName": "Ella Adams",
+                    "reviewerEmail": "ella.adams@x.dummyjson.com"
+                },
+                {
+                    "rating": 1,
+                    "comment": "Very unhappy with my purchase!",
+                    "date": "2024-05-23T08:56:21.628Z",
+                    "reviewerName": "Lillian Bishop",
+                    "reviewerEmail": "lillian.bishop@x.dummyjson.com"
+                },
+                {
+                    "rating": 4,
+                    "comment": "Awesome product!",
+                    "date": "2024-05-23T08:56:21.628Z",
+                    "reviewerName": "Aria Roberts",
+                    "reviewerEmail": "aria.roberts@x.dummyjson.com"
+                }
+            ],
+            "returnPolicy": "60 days return policy",
+            "minimumOrderQuantity": 3,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.628Z",
+                "updatedAt": "2024-05-23T08:56:21.628Z",
+                "barcode": "0909273919848",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/womens-shoes/Calvin%20Klein%20Heel%20Shoes/1.png",
+                "https://cdn.dummyjson.com/products/images/womens-shoes/Calvin%20Klein%20Heel%20Shoes/2.png",
+                "https://cdn.dummyjson.com/products/images/womens-shoes/Calvin%20Klein%20Heel%20Shoes/3.png",
+                "https://cdn.dummyjson.com/products/images/womens-shoes/Calvin%20Klein%20Heel%20Shoes/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/womens-shoes/Calvin%20Klein%20Heel%20Shoes/thumbnail.png"
+        }
+    ],
+    "new": [
+        {
+            "id": 20,
+            "title": "Golden Shoes Woman",
+            "description": "The Golden Shoes for Women are a glamorous choice for special occasions. Featuring a golden hue and stylish design, they add a touch of luxury to your outfit.",
+            "category": "womens-shoes",
+            "price": 49.99,
+            "discountPercentage": 14.93,
+            "rating": 0,
+            "stock": 99,
+            "tags": [
+                "footwear",
+                "women's shoes"
+            ],
+            "brand": "Fashion Diva",
+            "sku": "U52NOLI2",
+            "weight": 3,
+            "dimensions": {
+                "width": 15.32,
+                "height": 27.84,
+                "depth": 21.06
+            },
+            "warrantyInformation": "5 year warranty",
+            "shippingInformation": "Ships in 1-2 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [],
+            "returnPolicy": "No return policy",
+            "minimumOrderQuantity": 19,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.628Z",
+                "updatedAt": "2024-05-23T08:56:21.628Z",
+                "barcode": "0008484295237",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/womens-shoes/Golden%20Shoes%20Woman/1.png",
+                "https://cdn.dummyjson.com/products/images/womens-shoes/Golden%20Shoes%20Woman/2.png",
+                "https://cdn.dummyjson.com/products/images/womens-shoes/Golden%20Shoes%20Woman/3.png",
+                "https://cdn.dummyjson.com/products/images/womens-shoes/Golden%20Shoes%20Woman/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/womens-shoes/Golden%20Shoes%20Woman/thumbnail.png"
+        },
+        {
+            "id": 190,
+            "title": "IWC Ingenieur Automatic Steel",
+            "description": "The IWC Ingenieur Automatic Steel watch is a durable and sophisticated timepiece. With a stainless steel case and automatic movement, it combines precision and style for watch enthusiasts.",
+            "category": "womens-watches",
+            "price": 4999.99,
+            "discountPercentage": 5.76,
+            "rating": 0,
+            "stock": 85,
+            "tags": [
+                "watches",
+                "luxury watches"
+            ],
+            "brand": "IWC",
+            "sku": "OJF7AK1J",
+            "weight": 4,
+            "dimensions": {
+                "width": 12.27,
+                "height": 5.91,
+                "depth": 8.71
+            },
+            "warrantyInformation": "5 year warranty",
+            "shippingInformation": "Ships in 1 week",
+            "availabilityStatus": "In Stock",
+            "reviews": [],
+            "returnPolicy": "No return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.628Z",
+                "updatedAt": "2024-05-23T08:56:21.628Z",
+                "barcode": "3417342002384",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/womens-watches/IWC%20Ingenieur%20Automatic%20Steel/1.png",
+                "https://cdn.dummyjson.com/products/images/womens-watches/IWC%20Ingenieur%20Automatic%20Steel/2.png",
+                "https://cdn.dummyjson.com/products/images/womens-watches/IWC%20Ingenieur%20Automatic%20Steel/3.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/womens-watches/IWC%20Ingenieur%20Automatic%20Steel/thumbnail.png"
+        },
+        {
+            "id": 191,
+            "title": "Rolex Cellini Moonphase",
+            "description": "The Rolex Cellini Moonphase watch is a masterpiece of horology. Featuring a moon phase complication, it showcases the craftsmanship and elegance that Rolex is renowned for.",
+            "category": "womens-watches",
+            "price": 15999.99,
+            "discountPercentage": 18.76,
+            "rating": 0,
+            "stock": 66,
+            "tags": [
+                "watches",
+                "luxury watches"
+            ],
+            "brand": "Rolex",
+            "sku": "E8CYFYQL",
+            "weight": 5,
+            "dimensions": {
+                "width": 22.54,
+                "height": 20.15,
+                "depth": 25.37
+            },
+            "warrantyInformation": "2 year warranty",
+            "shippingInformation": "Ships in 1-2 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [],
+            "returnPolicy": "60 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.628Z",
+                "updatedAt": "2024-05-23T08:56:21.628Z",
+                "barcode": "3517608890772",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Cellini%20Moonphase/1.png",
+                "https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Cellini%20Moonphase/2.png",
+                "https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Cellini%20Moonphase/3.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Cellini%20Moonphase/thumbnail.png"
+        },
+        {
+            "id": 182,
+            "title": "Green Crystal Earring",
+            "description": "The Green Crystal Earring is a dazzling accessory that features a vibrant green crystal. With a classic design, it adds a touch of elegance to your ensemble, perfect for formal or special occasions.",
+            "category": "womens-jewellery",
+            "price": 29.99,
+            "discountPercentage": 2.58,
+            "rating": 0,
+            "stock": 1,
+            "tags": [
+                "fashion accessories",
+                "earrings"
+            ],
+            "sku": "O7LSKAP2",
+            "weight": 10,
+            "dimensions": {
+                "width": 19.73,
+                "height": 14.54,
+                "depth": 15.92
+            },
+            "warrantyInformation": "3 year warranty",
+            "shippingInformation": "Ships in 1 month",
+            "availabilityStatus": "Low Stock",
+            "reviews": [],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 17,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.627Z",
+                "updatedAt": "2024-05-23T08:56:21.627Z",
+                "barcode": "1370841315431",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/1.png",
+                "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/2.png",
+                "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/3.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/thumbnail.png"
+        },
+        {
+            "id": 165,
+            "title": "Short Frock",
+            "description": "The Short Frock is a playful and trendy dress with a shorter length. Ideal for casual outings or special occasions, it combines style and comfort for a fashionable look.",
+            "category": "tops",
+            "price": 24.99,
+            "discountPercentage": 9.47,
+            "rating": 0,
+            "stock": 19,
+            "tags": [
+                "clothing",
+                "dresses"
+            ],
+            "sku": "4VA2AFL0",
+            "weight": 8,
+            "dimensions": {
+                "width": 24.35,
+                "height": 8.49,
+                "depth": 5.89
+            },
+            "warrantyInformation": "No warranty",
+            "shippingInformation": "Ships in 1-2 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [],
+            "returnPolicy": "60 days return policy",
+            "minimumOrderQuantity": 19,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.626Z",
+                "updatedAt": "2024-05-23T08:56:21.626Z",
+                "barcode": "5470465127276",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/tops/Short%20Frock/1.png",
+                "https://cdn.dummyjson.com/products/images/tops/Short%20Frock/2.png",
+                "https://cdn.dummyjson.com/products/images/tops/Short%20Frock/3.png",
+                "https://cdn.dummyjson.com/products/images/tops/Short%20Frock/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/tops/Short%20Frock/thumbnail.png"
+        },
+        {
+            "id": 166,
+            "title": "Tartan Dress",
+            "description": "The Tartan Dress features a classic tartan pattern, bringing a timeless and sophisticated touch to your wardrobe. Perfect for fall and winter, it adds a hint of traditional charm.",
+            "category": "tops",
+            "price": 39.99,
+            "discountPercentage": 2.08,
+            "rating": 0,
+            "stock": 100,
+            "tags": [
+                "clothing",
+                "dresses"
+            ],
+            "sku": "35AA2Y9Z",
+            "weight": 4,
+            "dimensions": {
+                "width": 13,
+                "height": 28.67,
+                "depth": 6.45
+            },
+            "warrantyInformation": "3 months warranty",
+            "shippingInformation": "Ships overnight",
+            "availabilityStatus": "In Stock",
+            "reviews": [],
+            "returnPolicy": "No return policy",
+            "minimumOrderQuantity": 11,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.626Z",
+                "updatedAt": "2024-05-23T08:56:21.626Z",
+                "barcode": "6945099655063",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/tops/Tartan%20Dress/1.png",
+                "https://cdn.dummyjson.com/products/images/tops/Tartan%20Dress/2.png",
+                "https://cdn.dummyjson.com/products/images/tops/Tartan%20Dress/3.png",
+                "https://cdn.dummyjson.com/products/images/tops/Tartan%20Dress/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/tops/Tartan%20Dress/thumbnail.png"
+        },
+        {
+            "id": 192,
+            "title": "Rolex Datejust Women",
+            "description": "The Rolex Datejust Women's watch is an iconic timepiece designed for women. With a timeless design and a date complication, it offers both elegance and functionality.",
+            "category": "womens-watches",
+            "price": 10999.99,
+            "discountPercentage": 17.72,
+            "rating": 0,
+            "stock": 31,
+            "tags": [
+                "watches",
+                "luxury watches",
+                "women's watches"
+            ],
+            "brand": "Rolex",
+            "sku": "VKQ2UNB9",
+            "weight": 8,
+            "dimensions": {
+                "width": 14.53,
+                "height": 29.73,
+                "depth": 10.22
+            },
+            "warrantyInformation": "6 months warranty",
+            "shippingInformation": "Ships in 3-5 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [],
+            "returnPolicy": "90 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.628Z",
+                "updatedAt": "2024-05-23T08:56:21.628Z",
+                "barcode": "6032534220602",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Datejust%20Women/1.png",
+                "https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Datejust%20Women/2.png",
+                "https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Datejust%20Women/3.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Datejust%20Women/thumbnail.png"
+        },
+        {
+            "id": 175,
+            "title": "White Faux Leather Backpack",
+            "description": "The White Faux Leather Backpack is a trendy and practical backpack for the modern woman. With a sleek white design and ample storage space, it's perfect for both casual and on-the-go styles.",
+            "category": "womens-bags",
+            "price": 39.99,
+            "discountPercentage": 7.76,
+            "rating": 0,
+            "stock": 89,
+            "tags": [
+                "fashion accessories",
+                "backpacks"
+            ],
+            "brand": "Urban Chic",
+            "sku": "85TOBG0M",
+            "weight": 1,
+            "dimensions": {
+                "width": 9.35,
+                "height": 22.43,
+                "depth": 15.63
+            },
+            "warrantyInformation": "1 month warranty",
+            "shippingInformation": "Ships overnight",
+            "availabilityStatus": "In Stock",
+            "reviews": [],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 16,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.627Z",
+                "updatedAt": "2024-05-23T08:56:21.627Z",
+                "barcode": "2451119128549",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/womens-bags/White%20Faux%20Leather%20Backpack/1.png",
+                "https://cdn.dummyjson.com/products/images/womens-bags/White%20Faux%20Leather%20Backpack/2.png",
+                "https://cdn.dummyjson.com/products/images/womens-bags/White%20Faux%20Leather%20Backpack/3.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/womens-bags/White%20Faux%20Leather%20Backpack/thumbnail.png"
+        },
+        {
+            "id": 85,
+            "title": "Man Plaid Shirt",
+            "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+            "category": "mens-shirts",
+            "price": 34.99,
+            "discountPercentage": 17.53,
+            "rating": 0,
+            "stock": 65,
+            "tags": [
+                "clothing",
+                "men's shirts"
+            ],
+            "brand": "Classic Wear",
+            "sku": "TWL7HRBB",
+            "weight": 1,
+            "dimensions": {
+                "width": 29.56,
+                "height": 29.84,
+                "depth": 7.77
+            },
+            "warrantyInformation": "Lifetime warranty",
+            "shippingInformation": "Ships in 1 week",
+            "availabilityStatus": "In Stock",
+            "reviews": [],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.623Z",
+                "updatedAt": "2024-05-23T08:56:21.623Z",
+                "barcode": "9383795178668",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/1.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/2.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/3.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/thumbnail.png"
+        },
+        {
+            "id": 86,
+            "title": "Man Short Sleeve Shirt",
+            "description": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
+            "category": "mens-shirts",
+            "price": 19.99,
+            "discountPercentage": 8.65,
+            "rating": 0,
+            "stock": 20,
+            "tags": [
+                "clothing",
+                "men's shirts"
+            ],
+            "brand": "Casual Comfort",
+            "sku": "KEVGVDTV",
+            "weight": 2,
+            "dimensions": {
+                "width": 7.11,
+                "height": 28.63,
+                "depth": 27.54
+            },
+            "warrantyInformation": "5 year warranty",
+            "shippingInformation": "Ships in 2 weeks",
+            "availabilityStatus": "In Stock",
+            "reviews": [],
+            "returnPolicy": "7 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.623Z",
+                "updatedAt": "2024-05-23T08:56:21.623Z",
+                "barcode": "8162805546713",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/1.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/2.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/3.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/thumbnail.png"
+        },
+        {
+            "id": 87,
+            "title": "Men Check Shirt",
+            "description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+            "category": "mens-shirts",
+            "price": 27.99,
+            "discountPercentage": 14.21,
+            "rating": 0,
+            "stock": 69,
+            "tags": [
+                "clothing",
+                "men's shirts"
+            ],
+            "brand": "Urban Chic",
+            "sku": "L902AU9L",
+            "weight": 1,
+            "dimensions": {
+                "width": 18.43,
+                "height": 6.96,
+                "depth": 20.73
+            },
+            "warrantyInformation": "3 year warranty",
+            "shippingInformation": "Ships in 1 month",
+            "availabilityStatus": "In Stock",
+            "reviews": [],
+            "returnPolicy": "90 days return policy",
+            "minimumOrderQuantity": 8,
+            "meta": {
+                "createdAt": "2024-05-23T08:56:21.623Z",
+                "updatedAt": "2024-05-23T08:56:21.623Z",
+                "barcode": "1360512025227",
+                "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+            },
+            "images": [
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/1.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/2.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/3.png",
+                "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/4.png"
+            ],
+            "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/thumbnail.png"
+        }
+    ]
+}
