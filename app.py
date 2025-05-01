@@ -5,6 +5,7 @@ from sqlalchemy import Column, Integer, String, Float, Boolean, JSON, ForeignKey
 from pathlib import Path
 from datetime import datetime, timezone
 import json, logging
+import uvicorn
 from contextlib import asynccontextmanager
 
 
@@ -188,3 +189,6 @@ def get_category_items(category_name: str):
     }
 
 
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000)) 
+    uvicorn.run("main:app", host="0.0.0.0", port=port)
